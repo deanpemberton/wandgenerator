@@ -1,0 +1,2 @@
+# wandgenerator
+Generate wand descriptions
